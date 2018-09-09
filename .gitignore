@@ -1,0 +1,5 @@
+venv37
+venv
+.env
+.idea
+__pycache__
